@@ -12,11 +12,11 @@ the other part not related to cryptocurrency.
 
 # 安装 installation 
 直接在终端输入:
-> pip install git+https://github.com/51bitquant/howtrader.git
+> pip install git+https://github.com/ulandz/howtrader.git
 
 you can use pip to install the howtrader.
 
-> pip install git+https://github.com/51bitquant/howtrader.git
+> pip install git+https://github.com/ulandz/howtrader.git
 
 如果提示你没有git, 那么你需要去安装git软件，具体的话参考系列课程的第十三课的视频。
 
